@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there ! 👋
 
-<!--
-**faruniki/faruniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! My name is Najib Fahruna Akbar, I'm from Bogor. I was born in Yogyakarta, it's located in the south part of Java Island and it's neighboring to Center Java Province. and i love Art. 🎨🖼️ 
+
+### Hobbies
+
+* Bodybuilding 
+* Drawing & Painting
+* Designing
+* Music
+
+### Favorite Bands
+
+* Muse
+* The Killers
+* Arctic Monkeys
