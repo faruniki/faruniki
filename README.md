@@ -10,5 +10,3 @@ Hi! My name is Najib Fahruna Akbar, I'm from Indonesia. I'm a 19 years old motiv
 Contact me on najibfahrunaakbar@gmail.com
 
 <h4>Please be nice here, danke.</h4>
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6a27ujWv21H3qCkFGFj58L?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
